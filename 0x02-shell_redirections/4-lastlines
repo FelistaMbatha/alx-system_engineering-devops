@@ -1,3 +1,2 @@
 #!/bin/bash
-tail /etc/passwd
-
+tail 10 -n /etc/passwd
